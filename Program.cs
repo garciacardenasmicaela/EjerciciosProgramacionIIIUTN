@@ -21,6 +21,9 @@ class Program
             case 4:
                 Ejercicio4.Ejecutar();
                 break;
+            case 5:
+                Ejercicio5.Ejecutar();
+                break;
             default:
                 Console.WriteLine("Opción inválida");
                 break;
