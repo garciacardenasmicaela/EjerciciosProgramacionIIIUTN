@@ -1,0 +1,14 @@
+C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\bin\Debug\net8.0\Practico1ProgramacionIII.exe
+C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\bin\Debug\net8.0\Practico1ProgramacionIII.deps.json
+C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\bin\Debug\net8.0\Practico1ProgramacionIII.runtimeconfig.json
+C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\bin\Debug\net8.0\Practico1ProgramacionIII.dll
+C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\bin\Debug\net8.0\Practico1ProgramacionIII.pdb
+C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\obj\Debug\net8.0\Practico1ProgramacionIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\obj\Debug\net8.0\Practico1ProgramacionIII.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\obj\Debug\net8.0\Practico1ProgramacionIII.AssemblyInfo.cs
+C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\obj\Debug\net8.0\Practico1ProgramacionIII.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\obj\Debug\net8.0\Practico1ProgramacionIII.dll
+C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\obj\Debug\net8.0\refint\Practico1ProgramacionIII.dll
+C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\obj\Debug\net8.0\Practico1ProgramacionIII.pdb
+C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\obj\Debug\net8.0\Practico1ProgramacionIII.genruntimeconfig.cache
+C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\obj\Debug\net8.0\ref\Practico1ProgramacionIII.dll
