@@ -12,3 +12,4 @@ C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico
 C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\obj\Debug\net8.0\Practico1ProgramacionIII.pdb
 C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\obj\Debug\net8.0\Practico1ProgramacionIII.genruntimeconfig.cache
 C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\obj\Debug\net8.0\ref\Practico1ProgramacionIII.dll
+C:\Users\Casa\Desktop\Micaela\Programacion III\Practico1ProgramacionIII\Practico1ProgramacionIII\obj\Debug\net8.0\Practico1ProgramacionIII.sourcelink.json
