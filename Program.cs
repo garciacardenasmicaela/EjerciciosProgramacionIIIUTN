@@ -1,4 +1,6 @@
-﻿class Program
+﻿using Practico1ProgramacionIII;
+
+class Program
 {
     static void Main(string[] args)
     {
@@ -9,6 +11,9 @@
         {
             case 1:
                 Ejercicio1.Ejecutar();
+                break;
+            case 2:
+                Ejercicio2.Ejecutar();
                 break;
             default:
                 Console.WriteLine("Opción inválida");
